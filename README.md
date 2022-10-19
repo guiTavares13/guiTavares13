@@ -27,4 +27,4 @@
 
 Simpatizante da tecnologia, apaixonado por exatas e motivado em mudar a vida das pessoas através do código. 👨🏾‍💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiTavares13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
