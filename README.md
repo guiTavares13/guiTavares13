@@ -1,4 +1,3 @@
-```md id="p27j0o"
 <h1 align="center">Olá 👋 Eu sou Guilherme Tavares</h1>
 <h3 align="center">Backend • Engenharia de Dados • Cloud • Integração</h3>
 
@@ -15,7 +14,7 @@
 💻 Engenheiro de software com foco em backend, integração e engenharia de dados.  
 📊 Experiência com pipelines de dados, mensageria, cloud e arquitetura distribuída.  
 ☁️ Atuação em ambientes AWS e Azure.  
-🔍 Sempre evoluindo em arquitetura, performance e escalabilidade.
+🧑🏽‍🎓 Engenheiro de Computãção e Pós Graduado em Machine Learning Engineering
 
 ---
 
@@ -46,12 +45,9 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Overview 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiTavares13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiTavares13&layout=compact&theme=tokyonight"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiTavares13&theme=tokyonight)
 
 ---
 
@@ -61,7 +57,7 @@
 - Event-driven systems  
 - Kubernetes  
 - Performance em pipelines de dados  
-- Certificações AWS Cloud Praticioner  
+- Certificação AWS Cloud Praticioner  
 
 ---
 
@@ -74,4 +70,3 @@ Construir soluções robustas, escaláveis e com impacto real em negócios atrav
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guiTavares13&color=blue" />
 </p>
-```
