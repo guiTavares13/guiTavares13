@@ -1,48 +1,77 @@
-### Olá! Eu sou o Guilherme Tavares ✌️
+```md id="p27j0o"
+<h1 align="center">Olá 👋 Eu sou Guilherme Tavares</h1>
+<h3 align="center">Backend • Engenharia de Dados • Cloud • Integração</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-tavares-749990190/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-tavares-749990190/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-![Tavares' GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiTavares13&show_icons=true&theme=dracula)
+---
 
-## 🚀 Tecnologias que eu uso no meu dia a dia
+## 🚀 Sobre mim
 
-<div style="display: inline_block"><br/>
+💻 Engenheiro de software com foco em backend, integração e engenharia de dados.  
+📊 Experiência com pipelines de dados, mensageria, cloud e arquitetura distribuída.  
+☁️ Atuação em ambientes AWS e Azure.  
+🔍 Sempre evoluindo em arquitetura, performance e escalabilidade.
+
+---
+
+## ⚡ Stack principal
 
 ### Backend
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img align="center" alt="Apache Camel" src="https://img.shields.io/badge/Apache_Camel-D22128?style=for-the-badge&logo=apachecamel&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Camel-D22128?style=for-the-badge&logo=apachecamel&logoColor=white"/>
+</p>
 
-<br/><br/>
-
-### Dados & Engenharia de Dados
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img align="center" alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img align="center" alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-
-<br/><br/>
+### Engenharia de Dados
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+</p>
 
 ### Cloud & Integração
-<img align="center" alt="AWS Glue" src="https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img align="center" alt="Azure Data Factory" src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img align="center" alt="Event Hub" src="https://img.shields.io/badge/Event_Hub-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Event_Hub-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
 
-<br/><br/>
+---
 
-### Streaming & Mensageria
-<img align="center" alt="Kafka" src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+## 📈 GitHub Analytics
 
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiTavares13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiTavares13&layout=compact&theme=tokyonight"/>
+</p>
 
-<br/>
+---
 
-💻 Simpatizante da tecnologia, apaixonado por exatas e motivado em mudar a vida das pessoas através do código.
+## 🧠 Atualmente estudando
 
-📚 Atualmente focado em:
-- Engenharia de Dados
-- Cloud Computing
-- Arquitetura de Integração
-- Backend com Java & Python
+- Arquitetura distribuída  
+- Event-driven systems  
+- Kubernetes  
+- Performance em pipelines de dados  
+- Certificações AWS Cloud Praticioner  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiTavares13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 🎯 Objetivo
+
+Construir soluções robustas, escaláveis e com impacto real em negócios através de software e dados.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guiTavares13&color=blue" />
+</p>
+```
