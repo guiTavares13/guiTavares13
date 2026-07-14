@@ -51,22 +51,6 @@
 
 ---
 
-## 🧠 Atualmente estudando
-
-- Arquitetura distribuída  
-- Event-driven systems  
-- Kubernetes  
-- Performance em pipelines de dados  
-- Certificação AWS Cloud Praticioner  
-
----
-
-## 🎯 Objetivo
-
-Construir soluções robustas, escaláveis e com impacto real em negócios através de software e dados.
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guiTavares13&color=blue" />
 </p>
